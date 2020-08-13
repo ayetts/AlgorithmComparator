@@ -1,2 +1,5 @@
 # AlgorithmComparator
  
+Algorithm Comparator was completed as a final project for a sophomore computer science course called Java Programming II. The project required the design and implementation of searching and sorting algorithms that could be compared under different conditions. The searching algorithms were linear search, binary search, and hashing. The sorting algorithms were bubble sort, insertion sort, merge sort, quick sort, and heap sort. The different conditions were the size of the data, the type of data structure, and the type of data. The data structures were doubly linked lists and arrays and the data types were ints and Strings. Due to the different conditions, the algorithms had to be implemented in several different ways.
+
+The algorithms were compared with respect to the number of comparisons made during their execution. They were compared by this means in order to give the students an exploration into algorithm analysis. The project also utlized many features of the Java language such as OOP, I/O, GUI, recursion, and exception handling. The project was developed using NetBeans, Java, Swing, and jfreechart.
